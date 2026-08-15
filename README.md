@@ -46,13 +46,18 @@ More projects will be added regularly.
 
 ### 1. Install Python
 
-Download and install Python from:
-
-https://www.python.org/
-
-Python 3.x is recommended.
-
 ### 2. Clone the Repository
 
-```bash
-git clone https://github.com/YOUR-USERNAME/python-turtle-projects.git
+### 3. Open and run the project
+
+---
+
+Contributions, improvements, and new project ideas are welcome.
+If you would like to contribute:
+Fork this repository.
+Create a new branch.
+Add your project or improvement.
+Commit your changes.
+Push the branch.
+Open a Pull Request.
+
