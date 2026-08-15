@@ -51,13 +51,14 @@ More projects will be added regularly.
 ### 3. Open and run the project
 
 ---
+## 🤝 Contributions
 
 Contributions, improvements, and new project ideas are welcome.
 If you would like to contribute:
-Fork this repository.
-Create a new branch.
-Add your project or improvement.
-Commit your changes.
-Push the branch.
-Open a Pull Request.
+- Fork this repository.
+- Create a new branch.
+- Add your project or improvement.
+- Commit your changes.
+- Push the branch.
+- Open a Pull Request.
 
