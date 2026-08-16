@@ -1,11 +1,11 @@
 import turtle
 
 screen = turtle.Screen()
-screen.bgcolor("white")
+screen.bgcolor("#C7CCA7")
 screen.title("Draw with arrow keys — space to lift pen, c to clear")
 
 t = turtle.Turtle()
-t.color("blue")
+t.color("#1D0D58")
 t.shape("turtle")
 t.pensize(2)
 t.speed(0)

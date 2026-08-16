@@ -3,7 +3,7 @@ t = turtle.Turtle()
 
 s = turtle.Screen()
 s.bgcolor("#BECFA7")
-
+s.title("Flower Pattern Design")
 
 t.speed(0)
 t.pensize(2)

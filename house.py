@@ -1,7 +1,7 @@
 import turtle
 
 t = turtle.Turtle()
-t.speed(5)
+t.speed(4)
 t.pensize(2)
 
 # House body (square)
