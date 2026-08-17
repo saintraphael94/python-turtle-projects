@@ -71,7 +71,7 @@ def draw_antenna(t, base_x, base_y, tip_x, tip_y):
 def main():
     screen = turtle.Screen()
     screen.setup(width=500, height=500)
-    screen.bgcolor("white")
+    screen.bgcolor("#E8F5E9")
     screen.title("Android Robot - Turtle Graphics")
     screen.tracer(0)  # draw instantly, then update once at the end
 
